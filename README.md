@@ -3,7 +3,7 @@ AsFigo's opensource SVA IP for APB protocol + SVUnit tests on Verilator
 
 
 To run cip 
-1Install af_sva_apb
+1.Install af_sva_apb
 2.cd af_sva_apb-main/
 3.cd vlt_svunit/
 4.cd svunit/
